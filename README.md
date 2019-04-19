@@ -32,7 +32,7 @@ React Native >= 0.47.0
         # Add any other subspecs you want to use in your project
     ]
     pod 'react-native-voximplant', path: '../node_modules/react-native-voximplant'
-    pod 'Yoga', path: '../node_modules/react-native/ReactCommon/yoga'
+    pod 'yoga', path: '../node_modules/react-native/ReactCommon/yoga'
     ```
 5. Add `use_frameworks!` at the top of your target configuration.
 
